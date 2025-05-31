@@ -1,3 +1,4 @@
+
 # 🌌 Planisphere
 
 **Planisphere** is a modern web application project powered by React, TypeScript, and Vite. This project is designed for developers who want a blazing-fast, highly customizable, and visually stunning starting point for their next web experience.
